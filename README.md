@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codedeviater
-- 👀 I’m interested in coding :D
-- 🌱 I’m currently learning coding with AI/ML
+- 👀 I’m interested in deviating code
+- 🌱 I’m currently learning how to code with AI/ML
 - 💞️ I’m looking to collaborate on coding with friends
 ------------------------------------------------------------
 - 😄 Pronouns: he/him
