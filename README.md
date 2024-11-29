@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on coding with friends
 ------------------------------------------------------------
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: @codedeviator is cool
+- ⚡ Fun fact: @codedeviater is cool
 
 <!---
 codedeviater/codedeviater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
